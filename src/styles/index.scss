@@ -1,5 +1,19 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.bigCounter {
+  display: inline-block;
+  margin: auto;
+  text-align:center;
+  width:100%
+}
+
+.bigCounter div {
+  display:inline-block;
+  font-size:60px;
+  background:black;
+  color: white;
+  padding: 10px
+}
 /* 
 
     You can write your own styles here...
